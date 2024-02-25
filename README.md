@@ -1,5 +1,5 @@
-<h1 align="center">Salom 👋, men Madina Qaxxoraliyeva</h1>
-<h3 align="center">Men Back-end devoloper</h3>
+<h1 align="center">Hi 👋, I am Madina Qaxxoraliyeva</h1>
+<h3 align="center">I Back-end devoloper</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=madina&label=Profile%20views&color=0e75b6&style=flat" alt="madina" /> </p>
 

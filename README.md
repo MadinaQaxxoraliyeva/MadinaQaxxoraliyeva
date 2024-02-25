@@ -3,7 +3,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilyora&label=Profile%20views&color=0e75b6&style=flat" alt="madina" /> </p> 
  
-<h3 align="left">Connect with me: <a href=" @madina_3106 https:\\"><a/> </h3> 
+<h3 align="left">Connect with me: <a href="telegram @madina_3106 https:\\edi"><a/> </h3> 
 <p align="left"> 
 </p> 
  

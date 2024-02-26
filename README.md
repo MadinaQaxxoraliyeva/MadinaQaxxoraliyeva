@@ -3,7 +3,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilyora&label=Profile%20views&color=0e75b6&style=flat" alt="madina" /> </p> 
  
-<h3 align="left">Connect with me: <a href="telegram @madina_3106 https:\\edi"><a/> </h3> 
+<h3 align="left">Connect with me: <a href="https:\\@madina_0521"><a/> </h3> 
 <p align="left"> 
 </p> 
  
@@ -14,4 +14,4 @@
  
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilyora&show_icons=true&locale=en" alt="madina" /></p> 
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilyora&" alt="madina" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Madina&" alt="madina" /></p>

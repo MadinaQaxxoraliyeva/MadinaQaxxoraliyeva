@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madina&label=Profile%20views&color=0e75b6&style=flat" alt="madina" /> </p>
 
-<h3 align="left">Connect with me:</h3><a href="https:\\t.me/@madina_0521"><a/>
+<h3 align="left">Connect with me:</h3> <a href="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white https:\\@madina_0521"><a/>
 <p align="left">
 </p>
 
